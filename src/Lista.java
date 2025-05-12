@@ -44,6 +44,7 @@ class Lista<T> {
         attuale.next = nuovoNodo;
     }
 
+
     @Override
     public String toString() {
         String risultato = "";
